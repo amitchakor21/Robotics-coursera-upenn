@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Aerial Robotics">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Aerial Robotics/StoppingDistanceExercise.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Aerial Robotics/assignment2_code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Aerial Robotics/ThrustWeightExercise.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Aerial Robotics/GainTuningExercise.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Aerial Robotics/assignment1_code.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Aerial Robotics/GainTuningQuiz.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Aerial Robotics/assignment3_code.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

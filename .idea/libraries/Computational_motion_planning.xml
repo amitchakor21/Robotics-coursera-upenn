@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Computational motion planning">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Computational motion planning/Assignment2_CSpace.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Computational motion planning/Assignment3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Computational motion planning/Assignment4_V2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Computational motion planning/Assignment1_V1.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
